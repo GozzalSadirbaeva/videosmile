@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+    color: #303030;
+}
+.btn-color{
+    background: linear-gradient(90deg, #1D6CE3 0%, #07C5FB 100%);
+}
